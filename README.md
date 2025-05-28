@@ -22,14 +22,14 @@ Conventional CCTV-based systems are plagued by privacy concerns, high operationa
 
 ## 📁 Repository Structure
 
+```bash
 ├── Minor_Project_Final.ipynb      # Main implementation notebook
 ├── models/                        # Trained AI model files (to be added)
 ├── datasets/                      # CSI data used for training/testing (to be added)
 ├── README.md                      # Project overview and setup
 ├── requirements.txt               # Required libraries and dependencies
 └── utils/                         # Preprocessing and utility scripts (if any)
-
-
+```
 ---
 
 ## 🛠️ Methodology
